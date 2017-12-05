@@ -1,6 +1,6 @@
 services:
   habitus:
-    git_repo: https://github.com/kamerblauwlicht/habitus-test.git
+    git_url: https://github.com/kamerblauwlicht/habitus-test.git
     git_branch: master
     env_vars:
       HABITUS_VERY_SECRET_STUFF: launch_codes
